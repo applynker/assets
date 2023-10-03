@@ -1,7 +1,11 @@
 # assets
 static libraries
 
-## DaisyUI
+### DaisyUI
 
-* v3.8.3: [https://cdn.jsdelivr.net/gh/applynker/assets/daisyui/3.8.3/full.min.css](https://cdn.jsdelivr.net/gh/applynker/assets/daisyui/3.8.3/full.min.css)
+* 3.8.3: [https://cdn.jsdelivr.net/gh/applynker/assets/daisyui/3.8.3/full.min.css](https://cdn.jsdelivr.net/gh/applynker/assets/daisyui/3.8.3/full.min.css)
 
+
+### TailwindCSS
+
+* 3.3.3: [https://cdn.jsdelivr.net/gh/applynker/assets/tailwindcss/3.3.3/tailwindcss.min.js](https://cdn.jsdelivr.net/gh/applynker/assets/tailwindcss/3.3.3/tailwindcss.min.js)
